@@ -28,3 +28,5 @@ Important Note
 bWAPP is intentionally insecure, and it is recommended to run it in a controlled environment, such as a local development machine or a virtual machine. Do not expose bWAPP to the public internet without proper security precautions.
 
 Remember that bWAPP is a learning tool, and it is crucial to use it responsibly for educational purposes only. Always be aware of the security risks associated with intentionally vulnerable applications.
+
+docker-compose -f bwapp-compose.yml down
